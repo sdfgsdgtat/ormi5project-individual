@@ -1,0 +1,62 @@
+.middlesec1{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+    justify-content: center;
+}
+.middletxtbox{
+    margin-left: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+}
+.midcatrighttxt1{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 32px;
+}
+.midcatrighttxt2{
+    font-size: 12px;
+    margin-bottom: 70px;
+}
+.middlesec2{
+    margin-top: 20px;
+    display:flex ;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.middummytxt1{
+    display: flex;
+    font-size: 26px;
+    font-weight: 600;
+    color: #D97652;
+    justify-content: center;
+}
+.middummytxt2{
+    display: flex;
+    font-size: 10px;
+    font-weight: 700;
+    line-height: 16px;
+    justify-content: center;
+    text-align: center;  /* 텍스트 중앙정렬*/
+}
+.middlsec3{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.continue{
+    font-weight: 1000;
+    margin-bottom: 20px;
+}
+hr{
+    margin-top: 60px;
+    margin-left: 200px;
+    margin-right: 200px;
+
+}

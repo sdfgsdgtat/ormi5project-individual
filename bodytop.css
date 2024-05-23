@@ -1,0 +1,54 @@
+
+
+body {
+    height: 100%;
+    width: 100%;
+}
+
+
+.bodytoptotalbox{
+    margin: 0;
+    padding: 0;
+    background-color: #F2E9D8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%; /* 추가 */
+
+
+}
+.bodytop{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+.txtbox{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    margin-left: 200px;
+}
+.textcat1 {
+    font-size: 32px;
+    margin: 0;
+    line-height: 40px;
+    font-weight: 700;
+}
+.smalltxt{
+    font-size: 12px;
+    line-height: 20px;
+}
+.catimgbox{
+    margin-right: 132px;
+}
+.imgcat{
+        width: 365px;
+        height: 716px;
+}
+.downbtn2{
+    margin-top: 20px;
+}

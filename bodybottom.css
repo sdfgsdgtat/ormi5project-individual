@@ -1,0 +1,110 @@
+.bottomsec1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.botxtbox{
+    display: block;
+    justify-content: center;
+    margin-right: auto;
+}
+
+.botxt1{
+    margin-left: 200px;
+    font-weight: 800;
+    font-size: 22px;
+}
+
+.botxt2{
+    margin-left: 200px;
+    font-size: 14px;
+}
+.map{
+    display: flex;
+    justify-content: center;
+}
+.bottomsec2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sendmailbox{
+    margin-top: 50px;
+    display: flex;
+
+    background-color: #263140;
+    border-radius: 20px;
+    width: 800px;
+    height:auto;
+}
+
+
+.sendmail{
+    display: flex;
+    margin-left: 15px;
+    align-items: center;
+    color: white;
+    justify-content: center;
+}
+.sendtxt1{
+    margin-left: 10px;
+    font-size: 22px;
+    font-weight: 800;
+}
+.sendtxt2{
+    margin-left: 10px;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+.mailinputbox {
+    margin-left: 40px;
+    transform: scale(0.7);
+    transform-origin: center;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: inset 2px 2px 5px rgba(255, 255, 255, 0.5),
+    inset -2px -2px 5px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    width: 600px;
+    height: 60px;
+}
+
+.mailinputbox img {
+    margin-left: 15px;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+
+.input {
+    border: none;
+    outline: none;
+    flex: 1;
+    padding: 0 10px;
+    font-size: 16px;
+    height: 100%;
+    box-sizing: border-box;
+}
+.mailicon{
+    margin-left: 8px;
+    margin-bottom: 4px;
+}
+.mailinputbox a img {
+    height: 100%;
+    border-radius: 0 30px 30px 0;
+}
+.background{
+    display: flex;
+ position: absolute;
+   top: 2590px;
+    z-index: -3;
+    width: 99%;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+
+}
